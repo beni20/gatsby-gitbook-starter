@@ -2,7 +2,7 @@ const config = {
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://hasura.io',
-    gaTrackingId: null,
+    gaTrackingId: 'G-DB8H9BFP5J',
     trailingSlash: false,
   },
   header: {
