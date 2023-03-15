@@ -20,6 +20,13 @@ const plugins = [
     }
   },
   {
+    resolve: "gatsby-source-filesystem",
+    options: {
+      name: "docs",
+      path: `${__dirname}/content/diary/nomad_diary/`
+    }
+  },
+  {
     resolve: 'gatsby-plugin-mdx',
     options: {
       gatsbyRemarkPlugins: [
