@@ -1,0 +1,3 @@
+[submodule "content/diary"]
+	path = content/diary
+	url = https://github.com/beni20/diary.git
